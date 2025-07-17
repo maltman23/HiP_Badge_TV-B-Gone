@@ -7047,6 +7047,9 @@ const struct IrCode code_eu100Code  = {
   code_eu100Times,
   code_eu100Codes
 };
+
+
+
 const int code_eu101Times[]  = {
   14, 491,
   14, 743,
@@ -7268,6 +7271,8 @@ const struct IrCode code_eu109Code  = {
   code_eu109Times,
   code_eu109Codes
 };
+
+
 const int code_eu110Times[]  = {
   56, 55,
   56, 168,
